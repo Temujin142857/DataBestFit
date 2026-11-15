@@ -1,2 +1,184 @@
 filename, title, x, y, line (m), line (b), line (angle in degrees)
-Life Expectancy Data_Afghanistan.csv, Afghanistan Life Expectancy (2000 - 2015), Year, Life expectancy , 0.45014705882352923, -845.4764705882349, 24.234751876138862
+Life Expectancy Data_Afghanistan.csv,Afghanistan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.45014705882352923,-845.4764705882349,24.2347518761388620000
+Life Expectancy Data_Algeria.csv,Algeria Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3210294117647057,-570.8477941176467,17.798157939774402
+Life Expectancy Data_Albania.csv,Albania Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3710294117647059,-669.6852941176471,20.356335070074973
+Life Expectancy Data_Angola.csv,Angola Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5307352941176469,-1016.4323529411761,27.95647005814261
+Life Expectancy Data_Antigua and Barbuda.csv,Antigua and Barbuda Life Expectancy (2000 - 2015),Year,Life expectancy ,0.18779411764705906,-301.94044117647104,10.635933786468346
+Life Expectancy Data_Argentina.csv,Argentina Life Expectancy (2000 - 2015),Year,Life expectancy ,0.16250000000000017,-251.06250000000034,9.229886243727726
+Life Expectancy Data_Armenia.csv,Armenia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.16588235294117654,-259.6088235294119,9.418593325454918
+Life Expectancy Data_Australia.csv,Australia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.12676470588235267,-172.66764705882298,7.224549288358381
+Life Expectancy Data_Austria.csv,Austria Life Expectancy (2000 - 2015),Year,Life expectancy ,0.42661764705882355,-774.9536764705882,23.103950749360624
+Life Expectancy Data_Azerbaijan.csv,Azerbaijan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4472058823529411,-827.0345588235293,24.09447427540973
+Life Expectancy Data_Bahamas.csv,Bahamas Life Expectancy (2000 - 2015),Year,Life expectancy ,0.19588235294117645,-318.94632352941176,11.08290408186612
+Life Expectancy Data_Bahrain.csv,Bahrain Life Expectancy (2000 - 2015),Year,Life expectancy ,0.15970588235294098,-244.88455882352903,9.073845102709196
+Life Expectancy Data_Bangladesh.csv,Bangladesh Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5420588235294117,-1018.883088235294,28.460297724944578
+Life Expectancy Data_Barbados.csv,Barbados Life Expectancy (2000 - 2015),Year,Life expectancy ,0.15249999999999997,-231.78749999999997,8.67080145359096
+Life Expectancy Data_Belarus.csv,Belarus Life Expectancy (2000 - 2015),Year,Life expectancy ,0.38573529411764684,-704.457352941176,21.093387303543867
+Life Expectancy Data_Belgium.csv,Belgium Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5483823529411761,-1020.196323529411,28.739586330191884
+Life Expectancy Data_Belize.csv,Belize Life Expectancy (2000 - 2015),Year,Life expectancy ,0.13955882352941168,-210.89558823529393,7.944817260201999
+Life Expectancy Data_Benin.csv,Benin Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3460294117647058,-637.0852941176469,19.087125063194414
+Life Expectancy Data_Bhutan.csv,Bhutan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5688235294117644,-1075.750735294117,29.632237532577424
+Life Expectancy Data_Bolivia (Plurinational State of).csv,Bolivia (Plurinational State of) Life Expectancy (2000 - 2015),Year,Life expectancy ,0.7813235294117642,-1500.8007352941167,38.00134850149465
+Life Expectancy Data_Bosnia and Herzegovina.csv,Bosnia and Herzegovina Life Expectancy (2000 - 2015),Year,Life expectancy ,0.18014705882352944,-285.67647058823536,10.21213493234711
+Life Expectancy Data_Botswana.csv,Botswana Life Expectancy (2000 - 2015),Year,Life expectancy ,1.5005882352941167,-2956.380882352939,56.32029993604639
+Life Expectancy Data_Brazil.csv,Brazil Life Expectancy (2000 - 2015),Year,Life expectancy ,0.19426470588235265,-316.6051470588229,10.993617434927529
+Life Expectancy Data_Brunei Darussalam.csv,Brunei Darussalam Life Expectancy (2000 - 2015),Year,Life expectancy ,0.21529411764705841,-355.71544117646977,12.149986343716861
+Life Expectancy Data_Bulgaria.csv,Bulgaria Life Expectancy (2000 - 2015),Year,Life expectancy ,0.21882352941176494,-366.4382352941181,12.343107752638119
+Life Expectancy Data_Burkina Faso.csv,Burkina Faso Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5836764705882349,-1116.0867647058817,30.271103810003797
+Life Expectancy Data_Burundi.csv,Burundi Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4644117647058822,-876.7691176470585,24.91070993982496
+Life Expectancy Data_Cabo Verde.csv,Cabo Verde Life Expectancy (2000 - 2015),Year,Life expectancy ,0.047205882352941,-22.247058823529045,2.7026914635803085
+Life Expectancy Data_Cambodia.csv,Cambodia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.7192647058823526,-1379.5801470588228,35.726131761529075
+Life Expectancy Data_Cameroon.csv,Cameroon Life Expectancy (2000 - 2015),Year,Life expectancy ,0.42338235294117627,-795.9213235294114,22.94694183858708
+Life Expectancy Data_Canada.csv,Canada Life Expectancy (2000 - 2015),Year,Life expectancy ,0.18264705882352925,-284.976470588235,10.350811190671427
+Life Expectancy Data_Central African Republic.csv,Central African Republic Life Expectancy (2000 - 2015),Year,Life expectancy ,0.6244117647058819,-1204.994117647058,31.98114064778985
+Life Expectancy Data_Chad.csv,Chad Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4094117647058822,-771.5066176470584,22.264770023483127
+Life Expectancy Data_Chile.csv,Chile Life Expectancy (2000 - 2015),Year,Life expectancy ,0.38352941176470573,-690.4852941176468,20.9832879064237
+Life Expectancy Data_China.csv,China Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2720588235294113,-471.89558823529325,15.219464831173775
+Life Expectancy Data_Colombia.csv,Colombia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2217647058823526,-371.9051470588229,12.503825123429907
+Life Expectancy Data_Comoros.csv,Comoros Life Expectancy (2000 - 2015),Year,Life expectancy ,0.27544117647058813,-491.36691176470566,15.399748933935708
+Life Expectancy Data_Congo.csv,Congo Life Expectancy (2000 - 2015),Year,Life expectancy ,0.9924999999999994,-1933.3999999999987,44.78433309065598
+Life Expectancy Data_Costa Rica.csv,Costa Rica Life Expectancy (2000 - 2015),Year,Life expectancy ,0.13102941176470598,-184.44779411764728,7.464905213870022
+Life Expectancy Data_Croatia.csv,Croatia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.23573529411764654,-397.1198529411754,13.26446907252406
+Life Expectancy Data_Cuba.csv,Cuba Life Expectancy (2000 - 2015),Year,Life expectancy ,0.1473529411764701,-217.83602941176375,8.38238039988566
+Life Expectancy Data_Cyprus.csv,Cyprus Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3255882352941176,-573.9433823529412,18.03463990533758
+Life Expectancy Data_Czechia.csv,Czechia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2766176470588232,-478.5411764705876,15.46238346332916
+Life Expectancy Data_C�te d'Ivoire.csv,Côte d'Ivoire Life Expectancy (2000 - 2015),Year,Life expectancy ,0.41176470588235253,-776.2301470588227,22.380135051959556
+Life Expectancy Data_Democratic People's Republic of Korea.csv,Democratic People's Republic of Korea Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4486764705882353,-831.5242647058823,24.164651599384666
+Life Expectancy Data_Democratic Republic of the Congo.csv,Democratic Republic of the Congo Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5885294117647055,-1125.7852941176463,30.478062953597178
+Life Expectancy Data_Denmark.csv,Denmark Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4677941176470585,-859.84044117647,25.06991650724716
+Life Expectancy Data_Djibouti.csv,Djibouti Life Expectancy (2000 - 2015),Year,Life expectancy ,0.473970588235294,-890.7397058823526,25.359575752342774
+Life Expectancy Data_Dominican Republic.csv,Dominican Republic Life Expectancy (2000 - 2015),Year,Life expectancy ,0.17573529411764685,-280.44485294117607,9.967117776581434
+Life Expectancy Data_Ecuador.csv,Ecuador Life Expectancy (2000 - 2015),Year,Life expectancy ,0.196176470588235,-319.09926470588175,11.099132176042913
+Life Expectancy Data_Egypt.csv,Egypt Life Expectancy (2000 - 2015),Year,Life expectancy ,0.6741176470588234,-1281.791176470588,33.984604923531194
+Life Expectancy Data_El Salvador.csv,El Salvador Life Expectancy (2000 - 2015),Year,Life expectancy ,0.23720588235294085,-404.4470588235288,13.344265478012362
+Life Expectancy Data_Equatorial Guinea.csv,Equatorial Guinea Life Expectancy (2000 - 2015),Year,Life expectancy ,0.35323529411764687,-653.8073529411761,19.45501849475339
+Life Expectancy Data_Eritrea.csv,Eritrea Life Expectancy (2000 - 2015),Year,Life expectancy ,0.7747058823529411,-1494.5345588235293,37.765154606731485
+Life Expectancy Data_Estonia.csv,Estonia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.19808823529411723,-322.71838235294035,11.20457073270076
+Life Expectancy Data_Ethiopia.csv,Ethiopia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.9870588235294112,-1922.408088235293,44.62685336648895
+Life Expectancy Data_Fiji.csv,Fiji Life Expectancy (2000 - 2015),Year,Life expectancy ,0.15000000000000008,-232.4125000000002,8.530765609948137
+Life Expectancy Data_Finland.csv,Finland Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5620588235294114,-1047.6205882352933,29.33854798605426
+Life Expectancy Data_France.csv,France Life Expectancy (2000 - 2015),Year,Life expectancy ,0.19250000000000012,-304.22500000000025,10.896152141141137
+Life Expectancy Data_Gabon.csv,Gabon Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3622058823529408,-664.8845588235288,19.910684781800022
+Life Expectancy Data_Gambia.csv,Gambia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5979411764705879,-1140.904411764705,30.876941053123105
+Life Expectancy Data_Georgia.csv,Georgia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.16308823529411773,-253.89338235294136,9.26271949815452
+Life Expectancy Data_Germany.csv,Germany Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5688235294117645,-1060.7382352941172,29.632237532577424
+Life Expectancy Data_Ghana.csv,Ghana Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4608823529411763,-864.3588235294114,24.744142146314832
+Life Expectancy Data_Greece.csv,Greece Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5066176470588232,-935.8161764705875,26.867578148916248
+Life Expectancy Data_Grenada.csv,Grenada Life Expectancy (2000 - 2015),Year,Life expectancy ,-0.13102941176470598,336.33529411764727,-7.464905213870022
+Life Expectancy Data_Guatemala.csv,Guatemala Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3213235294117646,-573.3257352941174,17.813433862101864
+Life Expectancy Data_Guinea-Bissau.csv,Guinea-Bissau Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4763235294117644,-900.8507352941172,25.469558999918753
+Life Expectancy Data_Guinea.csv,Guinea Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4864705882352937,-920.5772058823521,25.941558907716637
+Life Expectancy Data_Guyana.csv,Guyana Life Expectancy (2000 - 2015),Year,Life expectancy ,0.0620588235294117,-58.945588235294,3.5511544914612987
+Life Expectancy Data_Haiti.csv,Haiti Life Expectancy (2000 - 2015),Year,Life expectancy ,0.11044117647058817,-161.84191176470574,6.302272638598218
+Life Expectancy Data_Honduras.csv,Honduras Life Expectancy (2000 - 2015),Year,Life expectancy ,0.24191176470588208,-412.64411764705824,13.599258649547563
+Life Expectancy Data_Hungary.csv,Hungary Life Expectancy (2000 - 2015),Year,Life expectancy ,0.270882352941176,-469.9713235294109,15.156684699201307
+Life Expectancy Data_Iceland.csv,Iceland Life Expectancy (2000 - 2015),Year,Life expectancy ,-0.023970588235294084,130.56470588235288,-1.3731505794951808
+Life Expectancy Data_India.csv,India Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3919117647058819,-721.3441176470578,21.400797164985857
+Life Expectancy Data_Indonesia.csv,Indonesia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2016176470588234,-337.19117647058795,11.399024253541594
+Life Expectancy Data_Iran (Islamic Republic of).csv,Iran (Islamic Republic of) Life Expectancy (2000 - 2015),Year,Life expectancy ,0.12367647058823518,-174.42426470588214,7.050338233210034
+Life Expectancy Data_Iraq.csv,Iraq Life Expectancy (2000 - 2015),Year,Life expectancy ,0.16485294117647073,-260.586029411765,9.36118236689305
+Life Expectancy Data_Ireland.csv,Ireland Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4573529411764703,-837.9860294117641,24.577126800677835
+Life Expectancy Data_Israel.csv,Israel Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2132352941176468,-346.76985294117594,12.037202320365733
+Life Expectancy Data_Italy.csv,Italy Life Expectancy (2000 - 2015),Year,Life expectancy ,0.07382352941176447,-66.01323529411718,4.22211772053912
+Life Expectancy Data_Jamaica.csv,Jamaica Life Expectancy (2000 - 2015),Year,Life expectancy ,0.24397058823529408,-415.47720588235285,13.710646368544573
+Life Expectancy Data_Japan.csv,Japan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.15588235294117653,-230.3963235294119,8.860095390250017
+Life Expectancy Data_Jordan.csv,Jordan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.16176470588235276,-251.75514705882313,9.188836077358749
+Life Expectancy Data_Kazakhstan.csv,Kazakhstan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5005882352941172,-938.1683823529404,26.592007552182945
+Life Expectancy Data_Kenya.csv,Kenya Life Expectancy (2000 - 2015),Year,Life expectancy ,0.930441176470588,-1810.3794117647053,42.93637662593471
+Life Expectancy Data_Kiribati.csv,Kiribati Life Expectancy (2000 - 2015),Year,Life expectancy ,0.12676470588235292,-189.3301470588235,7.224549288358394
+Life Expectancy Data_Kuwait.csv,Kuwait Life Expectancy (2000 - 2015),Year,Life expectancy ,0.10279411764705865,-132.51544117647023,5.8690549833973495
+Life Expectancy Data_Kyrgyzstan.csv,Kyrgyzstan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5622058823529409,-1059.547058823529,29.344950642696276
+Life Expectancy Data_Lao People's Democratic Republic.csv,Lao People's Democratic Republic Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4722058823529412,-885.5720588235295,25.276956727638318
+Life Expectancy Data_Latvia.csv,Latvia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.11132352941176428,-149.7507352941168,6.352213714738901
+Life Expectancy Data_Lebanon.csv,Lebanon Life Expectancy (2000 - 2015),Year,Life expectancy ,0.15382352941176466,-234.60073529411756,8.744895945543675
+Life Expectancy Data_Lesotho.csv,Lesotho Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5063235294117647,-967.6632352941177,26.854166662425573
+Life Expectancy Data_Liberia.csv,Liberia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.7699999999999996,-1488.249999999999,37.59627114721197
+Life Expectancy Data_Libya.csv,Libya Life Expectancy (2000 - 2015),Year,Life expectancy ,-0.032941176470587884,138.61691176470518,-1.8867081457108632
+Life Expectancy Data_Lithuania.csv,Lithuania Life Expectancy (2000 - 2015),Year,Life expectancy ,0.08367647058823538,-95.1742647058825,4.783165863641405
+Life Expectancy Data_Luxembourg.csv,Luxembourg Life Expectancy (2000 - 2015),Year,Life expectancy ,0.41161764705882364,-745.5411764705884,22.372930327997626
+Life Expectancy Data_Madagascar.csv,Madagascar Life Expectancy (2000 - 2015),Year,Life expectancy ,0.39838235294117613,-737.0088235294111,21.7214646431789
+Life Expectancy Data_Malawi.csv,Malawi Life Expectancy (2000 - 2015),Year,Life expectancy ,1.116911764705882,-2192.306617647058,48.16109196136408
+Life Expectancy Data_Malaysia.csv,Malaysia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.16191176470588178,-251.2816176470577,9.1970468732733
+Life Expectancy Data_Maldives.csv,Maldives Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4279411764705882,-783.5544117647058,23.16807616564747
+Life Expectancy Data_Mali.csv,Mali Life Expectancy (2000 - 2015),Year,Life expectancy ,0.47705882352941165,-902.7580882352938,25.503887606232794
+Life Expectancy Data_Malta.csv,Malta Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3688235294117646,-660.0507352941175,20.24516102299392
+Life Expectancy Data_Mauritania.csv,Mauritania Life Expectancy (2000 - 2015),Year,Life expectancy ,0.03147058823529422,-0.37720588235315233,1.802536965468789
+Life Expectancy Data_Mauritius.csv,Mauritius Life Expectancy (2000 - 2015),Year,Life expectancy ,0.23529411764705854,-399.64044117647006,13.24051991518719
+Life Expectancy Data_Mexico.csv,Mexico Life Expectancy (2000 - 2015),Year,Life expectancy ,0.1239705882352938,-173.15220588235232,7.066935459853399
+Life Expectancy Data_Micronesia (Federated States of).csv,Micronesia (Federated States of) Life Expectancy (2000 - 2015),Year,Life expectancy ,0.1841176470588236,-301.4161764705884,10.432328330169947
+Life Expectancy Data_Mongolia.csv,Mongolia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4094117647058821,-756.0066176470582,22.264770023483123
+Life Expectancy Data_Montenegro.csv,Montenegro Life Expectancy (2000 - 2015),Year,Life expectancy ,0.22264705882352923,-372.46397058823493,12.552001490461343
+Life Expectancy Data_Morocco.csv,Morocco Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3322058823529407,-594.7470588235284,18.376790807289666
+Life Expectancy Data_Mozambique.csv,Mozambique Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4533823529411763,-856.7713235294115,24.388700872835987
+Life Expectancy Data_Myanmar.csv,Myanmar Life Expectancy (2000 - 2015),Year,Life expectancy ,0.29382352941176465,-525.6507352941175,16.37402909543415
+Life Expectancy Data_Namibia.csv,Namibia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.8594117647058817,-1664.8691176470572,40.67615118069869
+Life Expectancy Data_Nepal.csv,Nepal Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4957352941176468,-928.7073529411758,26.369238185872405
+Life Expectancy Data_Netherlands.csv,Netherlands Life Expectancy (2000 - 2015),Year,Life expectancy ,0.34073529411764697,-602.8948529411763,18.815788515311223
+Life Expectancy Data_New Zealand.csv,New Zealand Life Expectancy (2000 - 2015),Year,Life expectancy ,0.35147058823529376,-624.2397058823523,19.365075023959243
+Life Expectancy Data_Nicaragua.csv,Nicaragua Life Expectancy (2000 - 2015),Year,Life expectancy ,0.07441176470588243,-75.93161764705897,4.255636983728624
+Life Expectancy Data_Niger.csv,Niger Life Expectancy (2000 - 2015),Year,Life expectancy ,0.905147058823529,-1760.1014705882344,42.14972693360689
+Life Expectancy Data_Nigeria.csv,Nigeria Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5051470588235293,-962.726470588235,26.800488922426034
+Life Expectancy Data_Norway.csv,Norway Life Expectancy (2000 - 2015),Year,Life expectancy ,0.23044117647058776,-380.81691176470497,12.97676974889717
+Life Expectancy Data_Oman.csv,Oman Life Expectancy (2000 - 2015),Year,Life expectancy ,0.26544117647058824,-458.02941176470586,14.865843388427395
+Life Expectancy Data_Pakistan.csv,Pakistan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2526470588235294,-442.68897058823524,14.178898132861892
+Life Expectancy Data_Panama.csv,Panama Life Expectancy (2000 - 2015),Year,Life expectancy ,0.1614705882352938,-247.66470588235234,9.17241334374331
+Life Expectancy Data_Papua New Guinea.csv,Papua New Guinea Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2192647058823529,-378.4926470588234,12.367228004565668
+Life Expectancy Data_Paraguay.csv,Paraguay Life Expectancy (2000 - 2015),Year,Life expectancy ,0.030588235294117597,11.70661764705892,1.7520304980215453
+Life Expectancy Data_Peru.csv,Peru Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2549999999999998,-438.24999999999955,14.305551846621942
+Life Expectancy Data_Philippines.csv,Philippines Life Expectancy (2000 - 2015),Year,Life expectancy ,0.1179411764705883,-169.191911764706,6.726457882539363
+Life Expectancy Data_Poland.csv,Poland Life Expectancy (2000 - 2015),Year,Life expectancy ,0.24352941176470544,-413.23529411764616,13.686786434662471
+Life Expectancy Data_Portugal.csv,Portugal Life Expectancy (2000 - 2015),Year,Life expectancy ,0.6074999999999995,-1139.5624999999989,31.27868069397638
+Life Expectancy Data_Qatar.csv,Qatar Life Expectancy (2000 - 2015),Year,Life expectancy ,0.13632352941176465,-196.63823529411752,7.762909997813174
+Life Expectancy Data_Republic of Korea.csv,Republic of Korea Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4870588235294116,-897.2830882352938,25.968806310848375
+Life Expectancy Data_Republic of Moldova.csv,Republic of Moldova Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5183823529411764,-970.6713235294117,27.401426502500403
+Life Expectancy Data_Romania.csv,Romania Life Expectancy (2000 - 2015),Year,Life expectancy ,-0.05970588235294126,193.9095588235296,-3.4168388163208596
+Life Expectancy Data_Russian Federation.csv,Russian Federation Life Expectancy (2000 - 2015),Year,Life expectancy ,0.6014705882352939,-1139.6897058823524,31.02567111734601
+Life Expectancy Data_Rwanda.csv,Rwanda Life Expectancy (2000 - 2015),Year,Life expectancy ,1.2085294117647054,-2366.810294117646,50.39387804760032
+Life Expectancy Data_Saint Lucia.csv,Saint Lucia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2514705882352942,-431.22720588235313,14.115518103625586
+Life Expectancy Data_Saint Vincent and the Grenadines.csv,Saint Vincent and the Grenadines Life Expectancy (2000 - 2015),Year,Life expectancy ,-0.2923529411764706,660.3735294117647,-16.29643591526177
+Life Expectancy Data_Samoa.csv,Samoa Life Expectancy (2000 - 2015),Year,Life expectancy ,-0.05250000000000015,179.0125000000003,-3.0052693596899425
+Life Expectancy Data_Sao Tome and Principe.csv,Sao Tome and Principe Life Expectancy (2000 - 2015),Year,Life expectancy ,0.35323529411764687,-643.957352941176,19.45501849475339
+Life Expectancy Data_Saudi Arabia.csv,Saudi Arabia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.12338235294117667,-174.22132352941216,7.0337398172524805
+Life Expectancy Data_Senegal.csv,Senegal Life Expectancy (2000 - 2015),Year,Life expectancy ,0.6348529411764704,-1211.8985294117645,32.40954229811997
+Life Expectancy Data_Serbia.csv,Serbia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.20338235294117654,-334.3338235294119,11.496151603071198
+Life Expectancy Data_Seychelles.csv,Seychelles Life Expectancy (2000 - 2015),Year,Life expectancy ,0.07794117647058861,-84.09191176470662,4.456690493820399
+Life Expectancy Data_Sierra Leone.csv,Sierra Leone Life Expectancy (2000 - 2015),Year,Life expectancy ,0.722941176470588,-1405.1919117647053,35.86471581911602
+Life Expectancy Data_Singapore.csv,Singapore Life Expectancy (2000 - 2015),Year,Life expectancy ,0.29117647058823526,-503.0617647058823,16.234317088018635
+Life Expectancy Data_Slovakia.csv,Slovakia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.23323529411764704,-393.46985294117644,13.128694993833168
+Life Expectancy Data_Slovenia.csv,Slovenia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.7266176470588231,-1378.9536764705874,36.0028169070384
+Life Expectancy Data_Solomon Islands.csv,Solomon Islands Life Expectancy (2000 - 2015),Year,Life expectancy ,0.21088235294117644,-355.63382352941164,11.908190304964899
+Life Expectancy Data_Somalia.csv,Somalia Life Expectancy (2000 - 2015),Year,Life expectancy ,-0.057499999999999996,168.75,-3.2908836860672923
+Life Expectancy Data_South Africa.csv,South Africa Life Expectancy (2000 - 2015),Year,Life expectancy ,0.6317647058823525,-1210.7676470588226,32.28325196871274
+Life Expectancy Data_South Sudan.csv,South Sudan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4364705882352939,-822.3397058823525,23.57985370068708
+Life Expectancy Data_Spain.csv,Spain Life Expectancy (2000 - 2015),Year,Life expectancy ,0.20249999999999976,-324.4499999999995,11.44759626368559
+Life Expectancy Data_Sri Lanka.csv,Sri Lanka Life Expectancy (2000 - 2015),Year,Life expectancy ,0.18264705882352925,-293.263970588235,10.350811190671427
+Life Expectancy Data_Sudan.csv,Sudan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3317647058823527,-604.192647058823,18.3540226344866
+Life Expectancy Data_Suriname.csv,Suriname Life Expectancy (2000 - 2015),Year,Life expectancy ,0.37338235294117594,-679.4838235294108,20.474744524400272
+Life Expectancy Data_Swaziland.csv,Swaziland Life Expectancy (2000 - 2015),Year,Life expectancy ,0.9449999999999998,-1845.7624999999996,43.38024250274472
+Life Expectancy Data_Sweden.csv,Sweden Life Expectancy (2000 - 2015),Year,Life expectancy ,0.05808823529411796,-34.0933823529418,3.3244748848455092
+Life Expectancy Data_Switzerland.csv,Switzerland Life Expectancy (2000 - 2015),Year,Life expectancy ,0.08632352941176477,-90.9632352941178,4.933743156014319
+Life Expectancy Data_Syrian Arab Republic.csv,Syrian Arab Republic Life Expectancy (2000 - 2015),Year,Life expectancy ,-0.6347058823529407,1345.0220588235284,-32.403536467156535
+Life Expectancy Data_Tajikistan.csv,Tajikistan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.40779411764705825,-751.9904411764694,22.18534602383724
+Life Expectancy Data_Thailand.csv,Thailand Life Expectancy (2000 - 2015),Year,Life expectancy ,0.2727941176470587,-474.55294117647026,15.258683425227815
+Life Expectancy Data_The former Yugoslav republic of Macedonia.csv,The former Yugoslav republic of Macedonia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.20647058823529432,-340.37720588235334,11.66596312745175
+Life Expectancy Data_Timor-Leste.csv,Timor-Leste Life Expectancy (2000 - 2015),Year,Life expectancy ,0.6351470588235292,-1210.301470588235,32.42155156240027
+Life Expectancy Data_Togo.csv,Togo Life Expectancy (2000 - 2015),Year,Life expectancy ,0.40352941176470547,-753.4227941176462,21.975524974015247
+Life Expectancy Data_Tonga.csv,Tonga Life Expectancy (2000 - 2015),Year,Life expectancy ,0.11632352941176471,-160.98823529411766,6.6350279695046535
+Life Expectancy Data_Trinidad and Tobago.csv,Trinidad and Tobago Life Expectancy (2000 - 2015),Year,Life expectancy ,0.3363235294117647,-604.1007352941176,18.589003309099887
+Life Expectancy Data_Tunisia.csv,Tunisia Life Expectancy (2000 - 2015),Year,Life expectancy ,0.141911764705882,-210.5316176470581,8.077012488199031
+Life Expectancy Data_Turkey.csv,Turkey Life Expectancy (2000 - 2015),Year,Life expectancy ,0.143235294117647,-213.63235294117632,8.151334370955663
+Life Expectancy Data_Turkmenistan.csv,Turkmenistan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.20544117647058813,-347.80441176470566,11.609382221145188
+Life Expectancy Data_Uganda.csv,Uganda Life Expectancy (2000 - 2015),Year,Life expectancy ,1.1569117647058818,-2266.7941176470576,49.16084338459161
+Life Expectancy Data_Ukraine.csv,Ukraine Life Expectancy (2000 - 2015),Year,Life expectancy ,0.5658823529411761,-1066.0713235294108,29.504755610642086
+Life Expectancy Data_United Arab Emirates.csv,United Arab Emirates Life Expectancy (2000 - 2015),Year,Life expectancy ,0.18529411764705864,-296.2779411764702,10.497511322947833
+Life Expectancy Data_United Kingdom of Great Britain and Northern Ireland.csv,United Kingdom of Great Britain and Northern Ireland Life Expectancy (2000 - 2015),Year,Life expectancy ,0.4804411764705882,-883.6919117647058,25.66154646061905
+Life Expectancy Data_United Republic of Tanzania.csv,United Republic of Tanzania Life Expectancy (2000 - 2015),Year,Life expectancy ,0.8713235294117642,-1693.1757352941167,41.06640350437183
+Life Expectancy Data_United States of America.csv,United States of America Life Expectancy (2000 - 2015),Year,Life expectancy ,0.1735294117647057,-270.29779411764673,9.84447038268296
+Life Expectancy Data_Uruguay.csv,Uruguay Life Expectancy (2000 - 2015),Year,Life expectancy ,0.13382352941176429,-192.57573529411684,7.622237172811867
+Life Expectancy Data_Uzbekistan.csv,Uzbekistan Life Expectancy (2000 - 2015),Year,Life expectancy ,0.1551470588235295,-243.42647058823547,8.818960970966547
+Life Expectancy Data_Vanuatu.csv,Vanuatu Life Expectancy (2000 - 2015),Year,Life expectancy ,0.23794117647058827,-406.27941176470597,13.384143938784199
+Life Expectancy Data_Venezuela (Bolivarian Republic of).csv,Venezuela (Bolivarian Republic of) Life Expectancy (2000 - 2015),Year,Life expectancy ,0.09617647058823531,-119.68676470588238,5.493608963875072
+Life Expectancy Data_Viet Nam.csv,Viet Nam Life Expectancy (2000 - 2015),Year,Life expectancy ,0.17352941176470593,-273.5852941176472,9.844470382682973
+Life Expectancy Data_Yemen.csv,Yemen Life Expectancy (2000 - 2015),Year,Life expectancy ,0.1750000000000001,-287.4500000000002,9.92624550665171
+Life Expectancy Data_Zambia.csv,Zambia Life Expectancy (2000 - 2015),Year,Life expectancy ,1.3369117647058817,-2629.9441176470573,53.2037861960037
+Life Expectancy Data_Zimbabwe.csv,Zimbabwe Life Expectancy (2000 - 2015),Year,Life expectancy ,1.2917647058823525,-2542.7301470588222,52.2552996048076
