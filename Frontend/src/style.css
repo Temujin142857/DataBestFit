@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: cadetblue;
+    background-color: rgb(12, 34, 56);
     font-family: sans-serif;
     font-style: normal;
     color: aliceblue;
@@ -23,7 +23,7 @@ h1 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 
@@ -33,12 +33,11 @@ h1 {
 
 .canvas-container {
     border-radius: 24px;
-    background-image: linear-gradient(to bottom, #323232, #000000);
+    background-image: linear-gradient(to bottom, #429ac6, #276381);
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 20px;
-    width: 100%;
+    width: fit-content;
     padding: 5%;
 }
 

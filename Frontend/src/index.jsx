@@ -78,7 +78,7 @@ function OneStroke() {
           onStroke={handleStroke}
         />
       </div>
-      <p>Draw your dream graph!</p>
+      <p id="sub">Draw your dream graph!</p>
       <button type="button" onClick={saveStroke}>
         Realify!
       </button>
