@@ -21,17 +21,17 @@ const DIRECTORY=path.join("C:","Users","Temuj","Programming","DataBestFit","Data
 app.use(express.json());
 
 app.post('/chartOfBestFit', async (req, res) => {
-    console.log("heard", req.body)
+    //console.log("heard", req.body)
     const line=cleanLine(req.body)
-    console.log(line)
+    //console.log(line)
     const bestFit=await loadLines(line)    
     fs.readFile(path.join(DIRECTORY, bestFit["dataFileName"]), 'utf8', (err, data) => {
         if (err) {
             console.error(err);
             return;
         }
-        console.log("bestfit", bestFit)
-        console.log("returning", {x: bestFit["columns"]["x"], y: bestFit["columns"]["y"], data:data})
+        //console.log("bestfit", bestFit)
+        //console.log("returning", {x: bestFit["columns"]["x"], y: bestFit["columns"]["y"], data:data})
         res.send({x:bestFit["columns"]["x"], y: bestFit["columns"]["y"], data:data});
     });
 });
@@ -95,10 +95,10 @@ function vectorMetric(v1, v2){
 
 function interpretData(data){
     const slope=data[" line (m)"];//extract the line of best fit from the data
-    console.log(slope)
+    //console.log(slope)
     const dataFileName=data["filename"];//extract the rest of the data
-    console.log(dataFileName)
+    //console.log(dataFileName)
     const columns={x:data[" x"], y:data[" y"]}
-    console.log("columns", columns)
+    //console.log("columns", columns)
     return {"slope":slope, "dataFileName": dataFileName, "columns": columns};
 }
