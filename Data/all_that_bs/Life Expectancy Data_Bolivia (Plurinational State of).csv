@@ -1,0 +1,17 @@
+,Country,Year,Status,Life expectancy ,Adult Mortality,infant deaths,Alcohol,percentage expenditure,Hepatitis B,Measles , BMI ,under-five deaths ,Polio,Total expenditure,Diphtheria , HIV/AIDS,GDP,Population, thinness  1-19 years, thinness 5-9 years,Income composition of resources,Schooling
+304,Bolivia (Plurinational State of),2015,Developing,77.0,186.0,8,,0.0,99.0,0,52.6,10,99.0,,99.0,0.1,,,1.2,1.1,0.671,13.8
+305,Bolivia (Plurinational State of),2014,Developing,74.0,189.0,8,3.62,0.0,98.0,0,51.9,10,99.0,6.33,98.0,0.1,,,1.2,1.1,0.666,13.8
+306,Bolivia (Plurinational State of),2013,Developing,71.0,192.0,8,3.78,0.0,94.0,0,51.2,10,95.0,5.96,94.0,0.1,,,1.2,1.1,0.661,13.8
+307,Bolivia (Plurinational State of),2012,Developing,69.8,194.0,8,3.89,0.0,93.0,0,5.6,11,93.0,5.56,93.0,0.1,,,1.2,1.1,0.655,13.8
+308,Bolivia (Plurinational State of),2011,Developing,69.3,198.0,9,3.93,0.0,95.0,0,49.9,11,95.0,5.49,95.0,0.2,,,1.2,1.1,0.649,13.8
+309,Bolivia (Plurinational State of),2010,Developing,68.7,22.0,9,3.95,0.0,91.0,0,49.3,12,9.0,5.44,91.0,0.2,,,1.2,1.1,0.643,13.8
+310,Bolivia (Plurinational State of),2009,Developing,68.0,27.0,10,3.87,0.0,93.0,0,48.6,12,92.0,5.76,93.0,0.2,,,1.2,1.1,0.636,13.8
+311,Bolivia (Plurinational State of),2008,Developing,67.4,211.0,10,3.77,0.0,88.0,0,48.0,13,87.0,5.0,88.0,0.2,,,1.3,1.1,0.632,14.0
+312,Bolivia (Plurinational State of),2007,Developing,66.8,216.0,11,3.47,0.0,84.0,0,47.3,14,85.0,4.96,84.0,0.2,,,1.3,1.2,0.626,14.1
+313,Bolivia (Plurinational State of),2006,Developing,66.2,219.0,11,3.23,0.0,83.0,0,46.7,15,82.0,5.19,83.0,0.2,,,1.3,1.2,0.625,14.3
+314,Bolivia (Plurinational State of),2005,Developing,65.7,222.0,12,2.86,0.0,85.0,0,46.0,16,84.0,5.67,85.0,0.2,,,1.3,1.2,0.622,14.4
+315,Bolivia (Plurinational State of),2004,Developing,65.1,226.0,12,2.66,0.0,84.0,0,45.4,16,84.0,5.22,84.0,0.2,,,1.4,1.2,0.62,14.6
+316,Bolivia (Plurinational State of),2003,Developing,64.5,23.0,13,2.37,0.0,8.0,0,44.7,17,82.0,5.3,88.0,0.2,,,1.4,1.3,0.617,14.4
+317,Bolivia (Plurinational State of),2002,Developing,63.9,234.0,14,2.26,0.0,77.0,0,44.0,18,76.0,6.53,77.0,0.1,,,1.4,1.3,0.61,14.0
+318,Bolivia (Plurinational State of),2001,Developing,63.3,238.0,14,2.2,0.0,77.0,0,43.3,19,71.0,6.31,71.0,0.1,,,1.5,1.4,0.607,13.7
+319,Bolivia (Plurinational State of),2000,Developing,62.6,243.0,15,2.32,0.0,77.0,122,42.6,20,74.0,5.67,75.0,0.1,,,1.5,1.4,0.6,13.3
