@@ -31,7 +31,7 @@ app.post('/chartOfBestFit', async (req, res) => {
             return;
         }
         console.log("returning", data)
-        res.send(data);
+        res.type('text/csv').send(data);
     });
 });
 

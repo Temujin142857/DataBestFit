@@ -56,11 +56,10 @@ function OneStroke() {
       if (!response.ok) {
         throw new Error("Network response was not ok " + response.statusText);
       }
-      console.log("raw responce: ", response);
+      const csv = await response.text();
       // Parse the response as JSON
-      const data = await response.json();
-      console.log("raw responce json: ", data);
-      return data;
+      console.log("raw responce json: ", csv);
+      return csv;
     } catch (error) {
       console.error("There was a problem with the fetch operation:", error);
     }
