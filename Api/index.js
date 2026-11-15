@@ -1,10 +1,9 @@
 import { readdir } from 'node:fs/promises';
 import path from 'node:path';
-const fs = require('node:fs');
-
-const express = require('express');
+import fs from 'node:fs';
+import express from 'express';
 const app = express();
-const port = 3000;
+const port = 5002;
 
 const DIRECTORY="C:\Users\Temuj\Programming\DataBestFit\Data"
 
@@ -13,8 +12,8 @@ app.use(express.json());
 
 app.get('/api/users', (req, res) => {
     const line=req.body.line
-    loadLines(line)    
-    res.send('Retrieve all users');
+    const bestFit=loadLines(line)    
+    res.send(bestFit);
 });
 
 app.listen(port, () => {
@@ -39,25 +38,19 @@ async function loadLines(line){
             }
             console.log(data);
             const thisSet=interpretData(data)
-            thisSet["fitValue"]=compareLines(thisSet)
+            thisSet["fitValue"]=vectorMetric(thisSet["line"], line)
             if(bestFit["fitValue"]<thisSet["fitValue"]){
                 bestFit=thisSet
-            }
-            
+            }            
         });
     }
+    return bestFit;
 }
 
 //vectors have two points, each point has an x and y
 function vectorMetric(v1, v2){
     return Math.abs(v1.direction-v2.direction) + Math.abs(v1.magnitude-v2.magnitude)
 }
-
-function compareLines(cleanData){
-    fitValue=cleanData["line"]-line //do some math here
-    return fitValue
-}
-
 
 function interpretData(data){
     const line=""//extract the line of best fit from the data
