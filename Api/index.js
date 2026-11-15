@@ -22,13 +22,15 @@ app.use(express.json());
 
 app.post('/chartOfBestFit', async (req, res) => {
     console.log("heard", req.body)
-    const line=req.body
+    const line=cleanLine(req.body)
+    console.log(line)
     const bestFit=await loadLines(line)    
     fs.readFile(path.join(DIRECTORY, bestFit["dataFileName"]), 'utf8', (err, data) => {
         if (err) {
             console.error(err);
             return;
         }
+        console.log("returning", data)
         res.send(data);
     });
 });
@@ -86,6 +88,7 @@ function processRow(data, line, bestFit){
 
 //vectors have two points, each point has an x and y
 function vectorMetric(v1, v2){
+    console.log(v1["slope"], v2["slope"])
     return Math.abs(v1["slope"]-v2["slope"])
 }
 
