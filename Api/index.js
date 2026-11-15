@@ -14,7 +14,7 @@ const DIRECTORY=path.join("C:","Users","Temuj","Programming","DataBestFit","Data
 app.use(express.json());
 
 app.get('chartOfBestFit', async (req, res) => {
-    const line=cleanLine(req.body.line)
+    const line=cleanLine(JSON.parse(req.body.line))
     const bestFit=await loadLines(line)    
     fs.readFile(path.join(DIRECTORY, bestFit["dataFileName"]), 'utf8', (err, data) => {
         if (err) {
@@ -43,8 +43,8 @@ fs.readFile(path.join(DIRECTORY, bestFit["dataFileName"]), 'utf8', (err, data) =
 
 function cleanLine(line){
     let vector={}
-    vector["slope"]=(line.p2.y-line.p1.y)/(line.p2.x-line.p1.x)
-    vector["magnitude"]=Math.sqrt(((line.p2.y-line.p1.y)**2)+((line.p2.x-line.p1.x)**2))
+    vector["slope"]=(line["p2"]["y"]-line["p1"]["y"])/(line["p2"]["x"]-line["p1"]["x"])
+    vector["magnitude"]=Math.sqrt(((line["p2"]["y"]-line["p1"]["y"])**2)+((line["p2"]["x"]-line["p1"]["x"])**2))
     return vector
 }
 
