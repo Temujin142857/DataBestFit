@@ -8,7 +8,7 @@
     "vite": "^8.3.8"
   },
   "scripts": {
-    "dev": "vite Frontend",
+    "dev": "vite Frontend --port 5001",
     "build": "vite build Frontend",
     "preview": "vite preview Frontend"
   }
