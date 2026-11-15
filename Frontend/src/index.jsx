@@ -4,20 +4,32 @@ import { ReactSketchCanvas } from "react-sketch-canvas";
 
 function OneStroke() {
    const canvasRef = useRef(null);
-   const hasStroke = useRef(false);
+   const latestPath = useRef(false);
 
    function pointerDownHandler() {
-      if (hasStroke.current) {
+      if (latestPath.current) {
          canvasRef.current.resetCanvas();
-         hasStroke.current = false;
+         latestPath.current = null;
       }
    }
 
-   function handleStroke() {
-      hasStroke.current = true;
+   function handleStroke(path, isEraser) {
+      if (!isEraser) {
+         latestPath.current = path;
+         console.log("Points:", path.paths);
+      }
+   }
+
+   async function saveStroke() {
+      if (!latestPath.current) return;
+
+      const points = latestPath.current.paths;
+
+      console.log("Saved points:", points);
    }
 
    return (
+      <>
       <div onPointerDownCapture={pointerDownHandler}>
          <ReactSketchCanvas
             ref={canvasRef}
@@ -28,6 +40,11 @@ function OneStroke() {
             onStroke={handleStroke}
          />   
       </div>
+
+      <button type="button" onClick={saveStroke}>
+         Realify!
+      </button>
+      </>
    );
 }
 
