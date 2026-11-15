@@ -1,0 +1,2 @@
+filename, title, x, y, line (m), line (b), line (angle in degrees)
+Life Expectancy Data_Afghanistan.csv, Afghanistan Life Expectancy (2000 - 2015), Year, Life expectancy , 0.45014705882352923, -845.4764705882349, 24.234751876138862
