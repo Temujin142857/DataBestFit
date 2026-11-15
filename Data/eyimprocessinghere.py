@@ -13,6 +13,12 @@ def process_that_shit(filename:Path):
         if df.shape[0] <= 0:
             print("No data found, skipping")
             return
+        try:
+            if df[y].value_counts()[0] == len(df[y]):
+                print("No data found, skipping")
+                return
+        except KeyError:
+            print("yippee there's no 0 at all in this whaaaat")
         
         if args.title != None:
             title = args.title.strip()
