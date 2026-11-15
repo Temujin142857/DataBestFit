@@ -21,36 +21,36 @@ const DIRECTORY=path.join("C:","Users","Temuj","Programming","DataBestFit","Data
 app.use(express.json());
 
 app.post('/chartOfBestFit', async (req, res) => {
-    //console.log("heard", req.body)
+    ////console.log("heard", req.body)
     const line=cleanLine(req.body)
-    //console.log(line)
+    ////console.log(line)
     const bestFit=await loadLines(line)    
     fs.readFile(path.join(DIRECTORY, bestFit["dataFileName"]), 'utf8', (err, data) => {
         if (err) {
             console.error(err);
             return;
         }
-        //console.log("bestfit", bestFit)
-        //console.log("returning", {x: bestFit["columns"]["x"], y: bestFit["columns"]["y"], data:data})
+        ////console.log("bestfit", bestFit)
+        ////console.log("returning", {x: bestFit["columns"]["x"], y: bestFit["columns"]["y"], data:data})
         res.send({x:bestFit["columns"]["x"], y: bestFit["columns"]["y"], data:data});
     });
 });
 
 app.listen(port, () => {
-    console.log(`Server running on port ${port}`);
+    //console.log(`Server running on port ${port}`);
 })
 
 /**
 const line=cleanLine({p1:{x: 5, y: 6}, p2: {x: 8, y: 10}})
-console.log(line)
+//console.log(line)
 const bestFit=await loadLines(line)  
-console.log(bestFit)
+//console.log(bestFit)
 fs.readFile(path.join(DIRECTORY, bestFit["dataFileName"]), 'utf8', (err, data) => {
         if (err) {
             console.error(err);
             return;
         }
-        console.log(data);
+        //console.log(data);
 });
 */
 
@@ -64,24 +64,24 @@ function cleanLine(line){
 async function loadLines(line){
     return new Promise((resolve, reject) => {
         let bestFit={"fitValue": Number.MAX_VALUE, "dataFileName": ""}
-        console.log("hi2")
+        //console.log("hi2")
         fs.createReadStream(FILEPATH)
             .pipe(csv())
             .on('data', (data)=>{bestFit=processRow(data, line, bestFit)})
             .on('end', () => {
-                console.log("hi3", bestFit);
+                //console.log("hi3", bestFit);
                 resolve(bestFit);
             });
     });
 }
 
 function processRow(data, line, bestFit){
-    console.log("hi", data);
+    //console.log("hi", data);
     const thisSet=interpretData(data)
     thisSet["fitValue"]=vectorMetric(thisSet, line)
-    console.log(thisSet["fitValue"])
+    //console.log(thisSet["fitValue"])
     if(thisSet["fitValue"]<bestFit["fitValue"]){
-        console.log("hi4", thisSet)
+        //console.log("hi4", thisSet)
         return thisSet
     }
     return bestFit
@@ -89,16 +89,16 @@ function processRow(data, line, bestFit){
 
 //vectors have two points, each point has an x and y
 function vectorMetric(v1, v2){
-    console.log(v1["slope"], v2["slope"])
+    //console.log(v1["slope"], v2["slope"])
     return Math.abs(v1["slope"]-v2["slope"])
 }
 
 function interpretData(data){
     const slope=data[" line (m)"];//extract the line of best fit from the data
-    //console.log(slope)
+    ////console.log(slope)
     const dataFileName=data["filename"];//extract the rest of the data
-    //console.log(dataFileName)
+    ////console.log(dataFileName)
     const columns={x:data[" x"], y:data[" y"]}
-    //console.log("columns", columns)
+    ////console.log("columns", columns)
     return {"slope":slope, "dataFileName": dataFileName, "columns": columns};
 }
