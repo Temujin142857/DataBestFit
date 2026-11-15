@@ -30,8 +30,9 @@ app.post('/chartOfBestFit', async (req, res) => {
             console.error(err);
             return;
         }
-        console.log("returning", data)
-        res.type('text/csv').send(data);
+        console.log("bestfit", bestFit)
+        console.log("returning", {x: bestFit["columns"]["x"], y: bestFit["columns"]["y"], data:data})
+        res.send({x:bestFit["columns"]["x"], y: bestFit["columns"]["y"], data:data});
     });
 });
 
@@ -97,5 +98,7 @@ function interpretData(data){
     console.log(slope)
     const dataFileName=data["filename"];//extract the rest of the data
     console.log(dataFileName)
-    return {"slope":slope, "dataFileName": dataFileName};
+    const columns={x:data[" x"], y:data[" y"]}
+    console.log("columns", columns)
+    return {"slope":slope, "dataFileName": dataFileName, "columns": columns};
 }
