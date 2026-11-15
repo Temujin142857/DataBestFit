@@ -67,22 +67,22 @@ function OneStroke() {
   }
 
   return (
-    <>
+    <div className="canvas-container">
       <div onPointerDownCapture={pointerDownHandler}>
         <ReactSketchCanvas
           ref={canvasRef}
-          width="150px"
-          height="150px"
+          width="100%"
+          height="300px"
           strokeWidth={1}
           strokeColor="black"
           onStroke={handleStroke}
         />
       </div>
-
+      <p>Draw your dream graph!</p>
       <button type="button" onClick={saveStroke}>
         Realify!
       </button>
-    </>
+    </div>
   );
 }
 
